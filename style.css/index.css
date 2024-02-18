@@ -395,10 +395,10 @@ header .headerDisplay .headerimg .bottomPhoto img{
         position: absolute;
         width: 59%;
         left: 30%;
-        bottom: -190%;
+        bottom: -202%;
     }
     footer .img{
-        bottom: -192%;
+        bottom: -198%;
         width: 100%;
         position: absolute;
     }
